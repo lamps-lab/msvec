@@ -1,0 +1,14 @@
+{
+  "abstract_label_only_precision": 0.6666666666666666,
+  "abstract_label_only_recall": 0.6086956521739131,
+  "abstract_label_only_f1": 0.6363636363636365,
+  "abstract_rationalized_precision": 0.30952380952380953,
+  "abstract_rationalized_recall": 0.2826086956521739,
+  "abstract_rationalized_f1": 0.29545454545454547,
+  "sentence_selection_precision": 0.574468085106383,
+  "sentence_selection_recall": 0.34177215189873417,
+  "sentence_selection_f1": 0.42857142857142855,
+  "sentence_label_precision": 0.40425531914893614,
+  "sentence_label_recall": 0.24050632911392406,
+  "sentence_label_f1": 0.30158730158730157
+}

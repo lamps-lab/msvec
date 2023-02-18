@@ -1,0 +1,367 @@
+Article:  Is This a Single Drop of Seawater Magnified 25 Times?
+URL:  https://www.snopes.com/fact-check/single-drop-seawater-magnified/
+Evidence:  10.1177/1743872116654670
+Claim:  A photograph shows microplankton and other organisms found in a single drop of seawater magnified 25 times.
+Label:  mixture
+
+Article:  Do Deer Carry COVID-19?
+URL:  https://www.snopes.com/fact-check/study-coronavirus-antibodies-deer/
+Evidence: 10.1128/JVI.00083-21
+Claim:  Populations of wild deer across North America have tested positive for SARS-CoV-2 antibodies.
+Label:  true
+
+Article:  Did a Swedish Scientist Propose Cannibalism as a Solution to Climate Change?
+URL:  https://www.snopes.com/fact-check/swedish-scientist-cannibalism/
+Evidence:  10.1007/s13593-017-0452-8
+Claim:  Magnus Söderlund proposed or advocated eating human flesh as a solution to climate change in remarks he made on Sept. 3, 2019.
+Label:  Mixture
+
+Article:  Do Energy Drinks Show Up as Various Illicit Substances in Drug Tests?
+URL:  https://www.snopes.com/fact-check/red-bull-bang-drug-tests-meth/
+Evidence:  10.4065/83.1.66
+Claim:  Red Bull and Bang energy drinks test positive for various illicit or prescription drugs in substance or urine tests
+Label:  mostly false
+
+Article:  Has the Macaw Species from ‘Rio’ Movies Been Declared Extinct in the Wild?
+URL:  https://www.snopes.com/fact-check/rio-macaw-extinct/
+Evidence:  10.1016/j.biocon.2018.08.014
+Claim:  The macaw species from the “Rio” movies has been declared extinct in the wild.
+Label:  true
+
+Article:  Does Sniffing Rosemary Increase Memory by 75 Percent?
+URL:  https://www.snopes.com/fact-check/sniffing-rosemary/
+Evidence:  10.1177/2045125312436573
+Claim:  Sniffing rosemary increases human memory by up to 75 percent.
+Label:  False
+
+Article:  Do Rocks Falling Into the Ocean Contribute to Global Sea Level Rise?
+URL:  https://www.snopes.com/fact-check/do-rocks-contribute-sea-rise/
+Evidence:  10.1126/science.1151540
+Claim:  "Rocks falling into the ocean" is a factor that contributes to observable sea level rise on human time scales.
+Label:  false
+
+Article:  Does The Human Body Replace Itself Every Seven Years?
+URL:  https://www.snopes.com/fact-check/does-body-replace-itself-seven-years/
+Evidence:  10.1098/rstb.2010.0300
+Claim:  Every cell in the human body is replaced every seven years.
+Label:  false
+
+Article:  Did a Study Show That Dogs Exhibit Jealousy?
+URL:  https://www.snopes.com/fact-check/dogs-jealousy-study/
+Evidence:  10.1073/pnas.0810957105
+Claim:  A study showed that dogs could show jealousy if they caught their owners behaving sweetly toward other dogs.
+Label:  True
+
+Article:  Will Eating Alligator Meat Help Save the Louisiana Wetlands?
+URL:  https://www.snopes.com/fact-check/will-eating-alligator-save-wetlands/
+Evidence:  10.1111/j.1469-185X.2011.00203.x
+Claim:  Eating alligator in New Orleans will help save the wetlands of Louisiana.
+Label:  false
+
+Article:  You Should Never Put Toilet Paper on a Toilet Seat?
+URL:  https://www.snopes.com/fact-check/toilet-paper-on-toilet-seat/
+Evidence: 10.1128/AEM.01030-13
+Claim:  Using toilet paper as a barrier between your derriere and a toilet seat poses more health risks than just sitting down without a barrier.
+Label:  false
+
+Article:  Do Left-Handed People Die Younger Than Right-Handed People?
+URL:  https://www.snopes.com/fact-check/left-hand-right-hand-death/
+Evidence:  10.1097/00001648-200009000-00014
+Claim:  Left-handed people, on average, die younger than right-handed people.
+Label:  false
+
+Article:  Does Putting a Raw Cut Onion in Your Sock Cure Medical Ailments?
+URL:  https://www.snopes.com/fact-check/onion-in-your-sock-cure/
+Evidence:  10.1016/j.fct.2003.12.010
+Claim:  Placing a raw, cut onion in contact with your foot overnight “purifies your blood”, removes “toxins”, and heals your body.
+Label:  false
+
+Article:  Is Cancer Caused by a Deficiency of ‘Vitamin B17’?
+URL:  https://www.snopes.com/fact-check/cancer-vitamin-b17-deficiency/
+Evidence:  10.1056/NEJM198201283060403
+Claim:  Cancer is caused by a deficiency of vitamin “B17,” a condition that can be remedied with nutritional supplements.
+Label:  False
+
+Article:  Can You Use Peanut Butter to Diagnose Alzheimer’s Disease?
+URL:  https://www.snopes.com/fact-check/can-you-use-peanut-butter-to-diagnose-alzheimers-disease/
+Evidence:  10.3233/JAD-141494
+Claim:  Peanut butter can be used to diagnose Alzheimer’s Disease.
+Label:  Mostly false
+
+Article:  Can a Fetus Send Its Own Stem Cells to Repair Its Mother’s Damaged Organs?
+URL:  https://www.snopes.com/fact-check/fetus-can-send-stem-cells-repair-mothers-damaged-organs/
+Evidence:  10.4049/jimmunol.180.2.889
+Claim:  During pregnancy, if the mother suffers organ damage, the baby in the womb sends stem cells to repair the damaged organ.
+Label:  mostly true
+
+Article:  Can Marijuana Help Heal Broken Bones?
+URL:  https://www.snopes.com/fact-check/can-marijuana-help-heal-broken-bones/
+Evidence:  10.1038/sj.bjp.0707442
+Claim:  Scientific studies support the conclusion that marijuana can play a role in healing broken bones.
+Label:  mostly true
+
+Article:  Our Days Feel Shorter Because Time Is Literally Speeding Up
+URL:  https://www.snopes.com/fact-check/our-days-feel-shorter-because-time-is-literally-speeding-up/
+Evidence:  10.1029/2000JA900118
+Claim:  Time itself is speeding up and we actually perceive a 24-hour day as a 16-hour day.
+Label:  false
+
+Article:  No, NASA Does Not Plan To Send ‘Nude Pics’ into Space
+URL:  https://www.snopes.com/fact-check/nasa-nude-pics-into-space/
+Evidence:  10.3390/galaxies10020055
+Claim:  NASA will launch naked pictures of humans into space in hopes of “attracting aliens.”
+Label:  false
+
+Article:  Is This How Grains of Salt Look Under a Microscope?
+URL:  https://www.snopes.com/fact-check/salt-grains-microscope/
+Evidence:  10.7554/eLife.25916
+Claim:  A viral image shows how grains of salt look under a microscope.
+Label:  true
+
+Article:  Yes, Researchers Taught a Goldfish To Steer a Tank on Wheels
+URL:  https://www.snopes.com/fact-check/goldfish-steer-tank-on-wheels/
+Evidence:  10.1016/j.bbr.2021.113711
+Claim:  Researchers at Ben-Gurion University in Israel taught goldfish to steer a specially designed "fish-operated vehicle" to get food.
+Label:  true
+
+Article:  Are African Countries Planting Giant Wall of Trees To Stop Sahara Desert’s Spread?
+URL:  https://www.snopes.com/fact-check/africa-giant-wall-of-trees-sahara/
+Evidence:   10.1038/s41893-021-00801-8
+Claim:  More than 20 African countries banded together to combat the spread of the Sahara Desert by planting a giant wall of trees to run across the continent. This wall will stretch for around 7,000 km coast to coast.
+Label:  Mostly True
+
+Article:  Did Purdue Researchers Invent the Whitest Shade of White Paint?
+URL:  https://www.snopes.com/fact-check/whitest-paint-guinness-record/
+Evidence:  10.1021/acsami.1c02368
+Claim:  In 2021, Guinness World Records named paint developed by researchers at Purdue University the world's whitest.
+Label:  True
+
+Article:  Does This Video Show a Nanobot Inseminating Egg with ‘Lazy’ Sperm?
+URL:  https://www.snopes.com/fact-check/nanobot-inseminate-egg-sperm/
+Evidence:   10.1021/acs.nanolett.5b04221
+Claim:  A video filmed at the microscopic level shows a nanobot as it “picks up a lazy sperm by the tail and inseminates an egg with it.”
+Label:  true
+
+Article:  Do ‘Sonic Weapons’ Adequately Explain ‘Havana Syndrome’?
+URL:  https://www.snopes.com/fact-check/do-sonic-weapons-explain-the-health-diplomats-cuba/
+Evidence:  10.1080/10803548.2013.11076978
+Claim:  An inaudible sonic weapon adequately explains the "Havana Syndrome," a range of symptoms experienced by diplomats suffering from “health attacks” in Cuba.
+Label:  false
+
+Article:  Does Burning Sage Eliminate Airborne Bacteria?
+URL:  https://www.snopes.com/fact-check/burning-sage-kill-bacteria/
+Evidence:  10.4103/indianjotol.INDIANJOTOL_143_16
+Claim:  A 2007 study showed burning sage kills 94% of bacteria.
+Label:  false
+
+Article:  Are These Petri Dishes Coughed On With and Without a Mask?
+URL:  https://www.snopes.com/fact-check/petri-dishes-coughed-on-mask/
+Evidence:  10.1128/JCM.43.11.5721-5732.2005
+Claim:  A photograph shows one petri dish that was coughed on by a person not wearing a mask and another petri dish coughed on by the same person wearing a mask.
+Label:  True
+
+Article:  Did NASA ‘Admit’ Climate Change Is Caused by Changes in Earth’s Orbit, Not Humans?
+URL:  https://www.snopes.com/fact-check/nasa-climate-change-admission/
+Evidence:  10.1126/sciadv.1601207
+Claim:  NASA "admitted" that climate change occurs naturally as a result of changes in Earth's solar orbit and not anthropogenic factors.
+Label:  false
+
+Article:  Did Scientists Detect Cocaine in Freshwater Shrimp?
+URL:  https://www.snopes.com/fact-check/cocaine-shrimp/
+Evidence:  10.1016/j.aquatox.2011.03.011     
+Claim:  Researchers detected cocaine in multiple, freshwater-shrimp samples across the U.K.
+Label:  True
+
+Article:  Are All These Chemicals Found in a Banana?
+URL:  https://www.snopes.com/fact-check/chemicals-in-bananas/
+Evidence:  10.1093/jxb/erp204
+Claim:  A list of chemicals, written as if they were ingredients on a food label, accurately depicts the chemical composition of a banana
+Label:  True
+
+Article:  Is Rain That Falls in Smoky Areas After a Wildfire Likely to Be “Extremely Toxic”?
+URL:  https://www.snopes.com/fact-check/rain-wildfire-toxic/
+Evidence:  10.2307/1467761
+Claim:  Precipitation in smoky areas following a wildfire is likely to be extremely toxic.
+Label:  False
+
+Article:  Should People Call the Police if They See a New Guinea Flatworm?
+URL:  https://www.snopes.com/fact-check/call-police-new-guinea-flatworm/
+Evidence:  10.1016/j.molbiopara.2012.08.002
+Claim:  A recent invasion of New Guinea Flatworms in Florida poses a significant risk to human health and a sighting of this non-native animal should be reported to authorities by calling 911.
+Label:  Mostly false
+
+Article:  Did a Scientific Study Prove That “Conspiracists” Are “The Most Sane of All?”
+URL:  https://www.snopes.com/fact-check/conspiracists-most-sane/
+Evidence:  10.3389/fpsyg.2013.00409
+Claim:  A scientific study demonstrated that conspiracy theorists are generally more sane than other people.
+Label:  False
+
+Article:  Did Fracking Cause Volcanic Activity on Hawaii’s Big Island?
+URL:  https://www.snopes.com/fact-check/did-fracking-cause-volcanic-activity-hawaii/
+Evidence:  10.1785/0220150067
+Claim:  Scientific data has linked the surge in volcanic activity in Hawaii to increased fracking activity from a nearby geothermal energy plant.
+Label:  False
+
+Article:  NASA Confirms Existence of Earth’s Second Moon?
+URL:  https://www.snopes.com/fact-check/nasa-confirms-existence-of-earths-second-moon/
+Evidence:  10.1093/mnras/stw1972
+Claim:  NASA has recently confirmed the existence of Earth’s second moon.
+Label:  False
+
+Article:  Were Enormous Pyramids Just Discovered In Antarctica?
+URL:  https://www.snopes.com/fact-check/enormous-pyramids-just-discovered-in-antarctica/
+Evidence:  10.1016/j.epsl.2017.04.006
+Claim:  Recently discovered satellite photos from Google Earth show that an ancient civilization built pyramids in Antarctica 100 million years ago.
+Label:  False
+
+Article:  Is This ‘Walking’ Protein What Happiness Really Looks Like?
+URL:  https://www.snopes.com/fact-check/what-happiness-looks-like/
+Evidence:  10.1152/physrev.00023.2007     
+Claim:  A viral animation shows a myosin molecule transporting endorphins, which can be thought of as a visual representation of the feeling of happiness. 
+Label:  false
+
+Article:  Peer-Reviewed Study Proves All Recent Global Warming Fabricated by Climatologists?
+URL:  https://www.snopes.com/fact-check/climatology-fraud-global-warming/
+Evidence:  10.1175/2008BAMS2613.1
+Claim:  A peer-reviewed study has found evidence that nearly all of global warming has been fabricated by climate scientists.
+Label:  False
+
+Article:  Investigation Proves Starbucks Beverages Contain Feces?
+URL:  https://www.snopes.com/fact-check/investigation-proves-starbucks-beverages-contain-feces/
+Evidence:  10.1016/j.ecolind.2012.03.026
+Claim:  An investigation has proven the presence of feces in Starbucks beverages.
+Label:  False
+
+Article:  Did 58 Scientific Papers Published in 2017 Say Global Warming is a Myth?
+URL:  https://www.snopes.com/fact-check/scientific-papers-global-warming-myth/
+Evidence:  10.1016/j.palaeo.2016.10.022
+Claim:  A total of 58 peer-reviewed papers published in the first half of 2017 conclude that global warming is a myth.
+Label:  False
+
+Article:  Would Breaking a Vaccine Vial Necessitate Evacuating a Building?
+URL:  https://www.snopes.com/fact-check/vaccine-vial-evacuating-building/
+Evidence:  10.1021/acs.est.6b04328
+Claim:  If the vial to a mercury-containing vaccine is broken, the building must be evacuated.
+Label:  False
+
+Article:  Did a Study Prove That Airport Scanners ‘Rip Apart’ Your DNA?
+URL:  https://www.snopes.com/fact-check/do-airport-scanners-rip-apart-dna/
+Evidence:  10.48550/arXiv.0910.5294
+Claim:  A study performed at the Los Alamos National Laboratory found that millimeter wave body scanners commonly used by airport security can alter your DNA.
+Label:  False
+
+Article:  Is SpaceX Sending a Deadly Pathogen to the International Space Station?
+URL:  https://www.snopes.com/fact-check/spacex-sending-deadly-pathogen/
+Evidence:  10.2147/IDR.S67275
+Claim:  SpaceX will be transporting a potentially deadly pathogen to the International Space Station as part of their next launch.
+Label:  True
+
+Article:  Are Abortions Linked to an Increased Risk of Breast Cancer?
+URL:  https://www.snopes.com/fact-check/abortion-breast-cancer-link/
+Evidence:  10.1136/jech.50.5.481
+Claim:  Studies have proved that having an abortion increases a woman's risk of developing breast cancer.
+Label:  false
+
+Article:  ‘Hairy Spider Monkey’ Found on Mars?
+URL:  https://www.snopes.com/fact-check/hairy-spider-monkey-found-mars/
+Evidence:  10.1038/sj.ejcn.1601308     
+Claim:  Close examination of a photograph taken by NASA’s Mars Curiosity Rover shows the presence of a hairy, spider-monkey like creature.
+Label:  False
+
+Article:  Do Salt Lamps Provide Multiple Health Benefits?
+URL:  https://www.snopes.com/fact-check/salt-lamps-cure-everything/
+Evidence:  10.1007/s00484-007-0143-2     
+Claim:  Salt lamps, because they emit negatively charged ions, impart myriad health benefits including reduced anxiety, improved sleep, increased energy, and protection from an “electric smog.”
+Label:  False
+
+Article:  Do Women Need More Sleep Than Men Because Their Brains Work Harder?
+URL:  https://www.snopes.com/fact-check/women-need-more-sleep-than-men-because-their-brains-work-harder/
+Evidence:  10.1111/j.1365-2869.2004.00418.x     
+Claim:  Women need more sleep than men because their brains get more use on a day-to-day basis.
+Label:  Mostly False
+
+
+
+Article:  Did Native American Scouts’ Long Hair Provide “Almost Supernatural” Tracking Abilities During the Vietnam War?
+URL:  https://www.snopes.com/fact-check/native-american-scouts-long-hair-provided-almost-supernatural-tracking-abilities-vietnam-war/
+Evidence:  10.1056/NEJM199908123410706
+Claim:  The United States military recruited Native Americans as scouts in the Vietnam War and — in the course of their training — the military discovered that long hair actually helps give people ‘almost supernatural’ tracking abilities.
+Label:  False
+
+Article:  Global Sea Ice at a Record-Breaking Low
+URL:  https://www.snopes.com/fact-check/global-sea-ice-at-a-record-breaking-low/
+Evidence:  10.1038/nclimate3103
+Claim:  Daily sea ice data from 1979 to the present show a record-breaking low amount of global sea ice coverage beginning around October 2016.
+Label:  True
+
+Article:  Chimpanzee Rapidly Memorizes, Locates Numbers on a Screen
+URL:  https://www.snopes.com/fact-check/chimpanzee-rapidly-memorizes-locates-numbers-on-a-screen/
+Evidence:  10.1007/s10071-008-0206-8     
+Claim:  A video shows a chimpanzee rapidly memorizing the location of numbers from 1-9 on a touch screen, demonstrating its ability to recall their location by tapping (in sequential order) boxes that covered those numbers after a fraction of a second.
+Label:  Mostly true
+
+Article:  Vaccinated People Not More Susceptible to COVID-19 Than Unvaccinated
+URL:  https://www.factcheck.org/2022/06/scicheck-vaccinated-people-not-more-susceptible-to-covid-19-than-unvaccinated/
+Evidence:  10.1001/jama.2022.9479
+Claim:  Are vaccinated and boosted people more susceptible to infection or disease with the omicron variant than unvaccinated people?
+Label:  False
+
+Article:  Did NASA Fund Theological Research To Study How Humans Would React to Extraterrestrial Life?
+URL:  https://www.snopes.com/fact-check/nasa-24-theologians-research-aliens/
+Evidence:  10.1080/14746700.2018.1525224
+Claim:  NASA provided $1.1 million in funding to a religious organization to study how humans may react to life beyond Earth.
+Label:  True
+
+Article:  “The price of insulin increases as waistlines increase.”
+URL:  https://www.politifact.com/factchecks/2022/apr/21/matt-gaetz/gaetzs-diagnosis-whats-driving-insulin-costs-misse/
+Evidence:  10.1001/jamahealthforum.2021.3409
+Claim:  Insulin price increases have more to do with increased consumer demand than the bad behavior of Big Pharma
+Label:  False
+
+Article:  Florida Gov. Ron DeSantis mischaracterizes the efficacy of face masks
+URL:  https://www.politifact.com/factchecks/2022/mar/04/ron-desantis/florida-gov-ron-desantis-mischaracterizes-efficacy/
+Evidence:  10.1542/peds.2021-054268H
+Claim:  Wearing masks is “COVID theater” and “not doing anything.”
+Label:  False
+
+Article:  DeSantis’ executive order misleads about the lack of scientific support for masking in schools
+URL:  https://www.politifact.com/factchecks/2021/aug/10/ron-desantis/desantis-executive-order-misleading-about-lack-sci/
+Evidence:  10.1126/science.abh2939
+Claim:  “The Centers for Disease Control and Prevention’s recent guidance on students and masking “lacks a well-grounded scientific justification.”
+Label:  False
+
+Article:  Fact-checking a claim on dandelion root extract as a cancer remedy
+URL:  https://www.politifact.com/factchecks/2021/jun/17/instagram-posts/fact-checking-claim-dandelion-root-extract-cancer-/
+Evidence:  10.1182/blood.V118.21.4288.4288
+Claim:  "Dandelion root is able to kill 98% of cancer cells within 48 hours."
+Label:  Mostly False
+
+Article:  In his continued sparring with Fauci, Sen. Paul oversimplified the science
+URL:  https://www.politifact.com/factchecks/2021/mar/26/rand-paul/his-continued-sparring-fauci-sen-paul-oversimplifi/
+Evidence:  10.1056/NEJMc2102017
+Claim:  “Sorry Dr Fauci and other fearmongers, new study shows vaccines and naturally acquired immunity DO effectively neutralize COVID variants.”
+Label:  Mixture
+
+Article:  Despite all the talk, COVID-19 vaccination does not infect people with shingles
+URL:  https://www.politifact.com/factchecks/2021/apr/29/facebook-posts/despite-all-talk-covid-19-vaccination-does-not-inf/
+Evidence:  10.1093/rheumatology/keab345
+Claim:  “For #Covid vaccines, shingles and even more dangerous and painful skin conditions may be the new thrombocytopenia."
+Label:  Mostly False
+
+Article:  Trump’s wrong. 15% natural immunity doesn’t equal a vaccine.
+URL:  https://www.politifact.com/factchecks/2020/dec/15/donald-trump/trumps-wrong-15-immunity-resulting-infection-isnt-/
+Evidence:  10.1093/cid/ciaa1275
+Claim:  “The percentage of Americans with natural immunity from getting COVID-19 is “a very powerful vaccine in itself.”
+Label:  False
+
+Article:  Homeopathic supplements are not proven to treat the flu
+URL:  https://www.politifact.com/factchecks/2020/feb/27/facebook-posts/homeopathic-supplements-are-not-proven-treat-flu/
+Evidence:  10.2147/CEOR.S144300
+Claim:  “If you have the Flu… get these two items… Sambucol (and) Oscillococcinum… in 48 hours you will feel better. In 72 hours you will be almost symptom-free.”
+Label:  Mostly False
+
+Article:  Yang cites maternal mortality stats to talk about race
+URL:  https://www.politifact.com/factchecks/2019/dec/20/andrew-yang/yang-cites-maternal-mortality-stats-talk-about-rac/
+Evidence:  10.1016/j.ajog.2014.06.006     
+Claim:  "If you're a black woman, you're 320% more likely to die from complications in childbirth."
+Label:  True
