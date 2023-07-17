@@ -21,7 +21,7 @@ def get_completion(prompt, model="gpt-3.5-turbo"):
     response = openai.ChatCompletion.create(
         model=model,
         messages=messages,
-        temperature=temp, # this is the degree of randomness of the model's output
+        temperature=temp, # This is the degree of randomness of the model's output
     )
     return response.choices[0].message["content"]
 
@@ -47,7 +47,7 @@ for index, row in df.iterrows():
     
     df.at[index, 'GPT_Response_0.75'] = responses[index] # Name of column in output file
     
-    
+# Export to CSV
 df.to_csv('exported3.csv')
 
 print("Done with export")
