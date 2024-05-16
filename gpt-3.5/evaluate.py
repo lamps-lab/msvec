@@ -20,7 +20,9 @@ def readFiles(file, dataToEvaluate):
 		dataToEvaluate.append(new_entry)
 
 
-with open("groundTruth.json", 'r') as in_file:
+path = "../msvec.json"
+
+with open(path, 'r') as in_file:
 	groundTruthdata = json.load(in_file)
 
 
@@ -43,7 +45,11 @@ for line in dataToEvaluate:
 	label = ''
 	for line in groundTruthdata:
 		if claimid == line['id']:
-			label = line['label']
+			for doc_id, evidence_list in line['evidence'].items():
+				for evidence in evidence_list:
+					label = evidence['label']
+					break
+			#label = line['label']
 
 	predictedLabel, relevance = completion.split()
 	if abstractid == claimid and label in predictedLabel:
